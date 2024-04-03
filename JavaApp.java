@@ -5,6 +5,7 @@ public class JavaApp{
     System.out.println("Java Project");
     System.out.println("Java Project out is");
     System.out.println(new Date());
-    System.out.println(new Date());
+    Student s=new Student();
+    s.sayHello();
     }
 }
