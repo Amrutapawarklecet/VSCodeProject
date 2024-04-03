@@ -7,4 +7,8 @@ public class Student{
      void sayHello(){
         System.out.println("Studenyt class");
      }
+
+     void display(){
+        System.out.println("Studenyt class display");
+     }
 }

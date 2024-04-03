@@ -7,5 +7,6 @@ public class JavaApp{
     System.out.println(new Date());
     Student s=new Student(1);
     s.sayHello();
+    s.display();
     }
 }
