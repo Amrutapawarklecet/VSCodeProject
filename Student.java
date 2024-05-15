@@ -7,10 +7,10 @@ public class Student{
      }
 
      void sayHello(){
-        System.out.println("Studenyt class");
+        System.out.println("Student class");
      }
 
      void display(){
-        System.out.println("Studenyt class display");
+        System.out.println("Student class display");
      }
 }
